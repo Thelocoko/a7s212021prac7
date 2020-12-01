@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">a7s212021prac7</string>
+    <string name="titulopantalla">Manejo de archivos txt</string>
+    <string name="label">Ingresa tu nombre</string>
+    <string name="btng">Grabar</string>
+    <string name="btn2">Leer informacion</string>
+    <string name="Content">Contenido</string>
+</resources>
